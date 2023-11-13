@@ -1,1 +1,5 @@
-echo("hello word")
+<?php
+
+$name= $_POST['nom'];
+
+?>
